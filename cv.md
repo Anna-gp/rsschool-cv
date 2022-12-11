@@ -1,3 +1,4 @@
+![My photo](/rsschool-cv/photo.jpg)
 # **Anna Maneliuk**
 
 ## Contacts: 
